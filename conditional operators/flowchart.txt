@@ -1,0 +1,5 @@
+Step:-1-Start
+Step:-2-Input(Enter The value of A,B,C)
+Step:-3-Process()
+Step:-4-Output
+Step:-5-Stop
